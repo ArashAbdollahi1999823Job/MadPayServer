@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLitQwvU8oNAOuRSe5+JS+7vch0xWUopqfsZTBzRNGFLjTmi9tePviMhmnq+ax9uZVkQH0DO2twQtjVKh+s1ug==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectGit\\MadPay\\MadPay\\MadPay.Presentation\\MadPay.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arash\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Arash\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Arash\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Arash\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Arash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Arash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

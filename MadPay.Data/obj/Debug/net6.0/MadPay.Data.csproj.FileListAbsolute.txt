@@ -1,0 +1,12 @@
+E:\ProjectGit\MadPay\MadPay.Data\bin\Debug\net6.0\MadPay.Data.deps.json
+E:\ProjectGit\MadPay\MadPay.Data\bin\Debug\net6.0\MadPay.Data.dll
+E:\ProjectGit\MadPay\MadPay.Data\bin\Debug\net6.0\MadPay.Data.pdb
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.csproj.AssemblyReference.cache
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.AssemblyInfoInputs.cache
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.AssemblyInfo.cs
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.csproj.CoreCompileInputs.cache
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.dll
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\refint\MadPay.Data.dll
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\MadPay.Data.pdb
+E:\ProjectGit\MadPay\MadPay.Data\obj\Debug\net6.0\ref\MadPay.Data.dll
